@@ -1,15 +1,15 @@
 # Data Scientist & Data Analyst
 
 #### Analytical Tools: Power BI, Tableau, Excel
-####Languages: C, C++, Python, SQL, HTML, CSS
-####Libraries: TensorFlow, NumPy, Pandas, Scikit-Learn, Matplotlib 
-####Technical Skills: Machine Learning, Deep Learning, NLP (Natural Language Processing), Computer Vision
-####Database: MySQL
-####Tech Tools: Vs-Code, SQL, GIT & GitHub, Jupyter notebook.
+#### Languages: C, C++, Python, SQL, HTML, CSS
+#### Libraries: TensorFlow, NumPy, Pandas, Scikit-Learn, Matplotlib
+#### Technical Skills: Machine Learning, Deep Learning, NLP (Natural Language Processing), Computer Vision
+#### Database: MySQL
+#### Tech Tools: Vs-Code, SQL, GIT & GitHub, Jupyter notebook.
 
-
+ 
 ## Education
-- Bechlors, Electronics and Communication Engineering | Chandigarh Engineering College (_2019-23_)
+Bechlors, Electronics and Communication Engineering | Chandigarh Engineering College (_2019-23_)
   
 
 ## Projects
@@ -54,12 +54,12 @@ informed decisions.
 
 
 ## Kaggle Competitions
-### Natural Language Processing with Disaster Tweets
-### Cassava Leaf Disease Classification
-### Titanic Dataset
+-Natural Language Processing with Disaster Tweets
+-Cassava Leaf Disease Classification
+-Titanic Dataset
 
 ## Certificates
-###• Introduction to Data Science (Cisco)
-###• Data Analytics Essentials (Cisco)
-###• Computer Vision (Kaggle)
-###• Python with AI & ML (Training in ThinkNeXT)
+#### • Introduction to Data Science (Cisco)
+#### • Data Analytics Essentials (Cisco)
+#### • Computer Vision (Kaggle)
+#### • Python with AI & ML (Training in ThinkNeXT)
