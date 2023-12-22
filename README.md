@@ -20,7 +20,7 @@ to accurately identify and classify human emotions based on facial expressions.
 • This innovative project aims to bridge the gap between technology and human emotion, providing a valuable tool for 
 applications in human-computer interaction, market research, and sentiment analysis
 
-![Emotion Detector](/assets/img/emotion_detection.png)
+![Emotion Detector](/assets/img/emoition_detection.png)
 
 ### ODI World Cup 2023 Data Analytic
 [Python | Web scrapping | Pandas | Power BI]
