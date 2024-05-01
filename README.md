@@ -13,7 +13,7 @@ Bechlors, Electronics and Communication Engineering | Chandigarh Engineering Col
   
 
 ## Projects
-### Emotion Detector
+### [Emotion Detector](https://github.com/arpitDhiman2000/Emotion-Detection) 
 #### [OpenCV | TensorFlow | NumPy | Matplotlib | Computer Vision]
 ##### • In the Emotion Detector project, develop a sophisticated system leveraging machine learning and computer vision techniques 
 to accurately identify and classify human emotions based on facial expressions.
@@ -22,7 +22,7 @@ applications in human-computer interaction, market research, and sentiment analy
 
 ![Emotion Detector](/assets/img/emoition_detection.png)
 
-### ODI World Cup 2023 Data Analytic
+### [ODI World Cup 2023 Data Analytic](https://github.com/arpitDhiman2000/ODI-Cricket-Analysis)
 #### [Python | Web scrapping | Pandas | Power BI]
 ##### • Develop a Power BI report to pinpoint the top 11 players for an ODI cricket team by leveraging a BrightData website tool to 
 scrape data from ESPN Cricinfo.
@@ -34,7 +34,7 @@ upcoming match.
 
 ![ODI World Cup](/assets/img/ODi.png)
 
-### Chat Bot
+### [Chat Bot](https://github.com/arpitDhiman2000/Chat-Bot)
 #### [NumPy | TensorFlow | Tkinter | Natural Language Processing]
 ##### • The project aims to develop a sophisticated personal assistant chatbot that leverages natural language processing (NLP) and 
 machine learning to understand and respond to user queries.
@@ -43,7 +43,7 @@ seeking assistance with various tasks
 
 ![Chat Bot](/assets/img/chatbot.png)
 
-### Sales Insight
+### [Sales Insight](https://github.com/arpitDhiman2000/Sales-Insight)
 #### [Power BI | SQL]
 ##### • Design a Power BI dashboard to understand AtliQ hardware goods sales trend.
 ##### • The final dashboard effectively displays the sales trend of AtliQ hardware, enabling users to comprehend the data and make 
@@ -52,17 +52,17 @@ informed decisions.
 
 ![Sales Insight](/assets/img/Sales.png)
 
-### Age-and-Gender-Detection
+### [Age-and-Gender-Detection](https://github.com/arpitDhiman2000/Age-and-Gender-Detection)
 #### [OpenCV | TensorFlow | NumPy | Matplotlib | Computer Vision]
 ##### • Employing convolutional neural networks (CNNs) trained on a dataset of 50,000 images, our Age-and-Gender-Detection project 
 achieves an accuracy of 90% in predicting age groups and gender from facial images.
 
-### Fraud-Detection
+### [Fraud-Detection](https://github.com/arpitDhiman2000/Fraud-Detection)
 #### [NumPy | Matplotlib | Machine Learning]
 ##### • Leveraging machine learning models, our fraud detection project aims to reduce financial losses by 20% through swift identification of suspicious transactions.
 ##### • By integrating real-time monitoring systems, we aim to decrease false positive rates by 15% and increase detection accuracy to 95%.
 
-### Global SuperStores report
+### [Global SuperStores report](https://github.com/arpitDhiman2000/Global-Super-Stores)
 #### [Power BI | SQL]
 ##### • Analyzing sales data from Global SuperStores' global network of stores, our report identifies key trends and insights to optimize business strategies.
 ##### • Through data visualization tools, such as interactive dashboards and heatmaps, we provide actionable insights to executives, enabling data-driven decision-making for sustainable growth and profitability.
