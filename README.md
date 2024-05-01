@@ -50,7 +50,27 @@ seeking assistance with various tasks
 informed decisions.
 ##### • This dashboard could potentially increase revenue by at least 7% in the next quarter.
 
-![Chat Bot](/assets/img/Sales.png)
+![Sales Insight](/assets/img/Sales.png)
+
+### Age-and-Gender-Detection
+#### [OpenCV | TensorFlow | NumPy | Matplotlib | Computer Vision]
+##### • Employing convolutional neural networks (CNNs) trained on a dataset of 50,000 images, our Age-and-Gender-Detection project 
+achieves an accuracy of 90% in predicting age groups and gender from facial images.
+
+### Fraud-Detection
+#### [NumPy | Matplotlib | Machine Learning]
+##### • Leveraging machine learning models, our fraud detection project aims to reduce financial losses by 20% through swift identification of suspicious transactions.
+##### • By integrating real-time monitoring systems, we aim to decrease false positive rates by 15% and increase detection accuracy to 95%.
+
+### Global SuperStores report
+#### [Power BI | SQL]
+##### • Analyzing sales data from Global SuperStores' global network of stores, our report identifies key trends and insights to optimize business strategies.
+##### • Through data visualization tools, such as interactive dashboards and heatmaps, we provide actionable insights to executives, enabling data-driven decision-making for sustainable growth and profitability.
+
+### Detect AI Generated Text
+#### [TensorFlow | NumPy | Matplotlib | NLP]
+##### • Develop a robust machine learning model leveraging advanced natural language processing and deep learning techniques to accurately differentiate between human-generated and AI-generated text.
+##### • Real-time linguistic analysis, continuous learning, and an intuitive user interface ensure Detect AI Guardian's effectiveness in identifying AI-generated content.
 
 
 ## Kaggle Competitions
